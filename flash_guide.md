@@ -23,7 +23,7 @@ STEP 2: FORMAT & SIDELOAD
 
 🛠️ CIT CALIBRATION (FOD & SPEAKER)
 If sensors feel uncalibrated, follow this EXACTLY:
-1. Settings > About Phone > Xiaomi CIT.
+1. Phone app > Dialer > *#*#6484#*#*.
 2. 3-dot menu (Top Right) > Additional Tools.
 3. Select Option 5 (FOD) or Option 8 (Speaker).
 4.  IMPORTANT: Once finished, REBOOT IMMEDIATELY. 
