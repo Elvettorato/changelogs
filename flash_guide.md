@@ -15,15 +15,15 @@ fastboot flash boot boot.img
 STEP 2: FORMAT & SIDELOAD
 - Reboot to Recovery (Vol Up + Power).
 - FORMAT DATA: Select Factory Reset -> Format Data.
-  (SKIP this only if Dirty Flashing from previous Lunaris)
+  (SKIP this only if Dirty Flashing from previous LineageOS)
 - Apply Update -> Apply from ADB.
-- Run: > adb sideload lunaris-aosp-v3.8.zip
+- Run: > adb sideload 'drag and drop the file on your terminal window'
 - Recovery will ask: "Reboot to recovery?" -> Select YES.
 - Select: Reboot System Now.
 
 🛠️ CIT CALIBRATION (FOD & SPEAKER)
 If sensors feel uncalibrated, follow this EXACTLY:
-1. Phone app > Dialer > *#*#6484#*#*.
+1. Phone app > Dialer > *#*#6484#*#* (The settings shortcut will be added in the future).
 2. 3-dot menu (Top Right) > Additional Tools.
 3. Select Option 5 (FOD) or Option 8 (Speaker).
 4.  IMPORTANT: Once finished, REBOOT IMMEDIATELY. 
