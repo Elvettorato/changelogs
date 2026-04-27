@@ -2,7 +2,7 @@ PRE-REQUISITES:
 - CLEAN FLASH: Mandatory if coming from MIUI/HyperOS 
   or any other AOSP ROM.
 - DIRTY FLASH: Only supported if you are already on 
-  a previous Lunaris-AOSP build.
+  a previous LineageOS build.
 - Remove lockscreen PIN/Password and DELETE all 
   enrolled fingerprints BEFORE flashing.
 
@@ -23,7 +23,7 @@ STEP 2: FORMAT & SIDELOAD
 
 🛠️ CIT CALIBRATION (FOD & SPEAKER)
 If sensors feel uncalibrated, follow this EXACTLY:
-1. Phone app > Dialer > *#*#6484#*#* (The settings shortcut will be added in the future).
+1. Settings --> Device Info --> Xiaomi CIT
 2. 3-dot menu (Top Right) > Additional Tools.
 3. Select Option 5 (FOD) or Option 8 (Speaker).
 4.  IMPORTANT: Once finished, REBOOT IMMEDIATELY. 
